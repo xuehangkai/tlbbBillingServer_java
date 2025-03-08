@@ -1,8 +1,7 @@
 # billing_java
 这是一个用 java 编写的验证程序  
 
-# 参考了[@liuguang](https://github.com/liuguangw/billing_go和
-# https://github.com/ashortname/billing_java)的程序
+# 参考了(https://github.com/liuguangw/billing_go和https://github.com/ashortname/billing_java)的程序
 
 
 
